@@ -4,7 +4,10 @@
 ## What is Arbitrage?
 Arbitrage is to obtain risk-free profit by selling at the same time low price market and selling in high price market in case the same securities which are traded in different markets are different in price of money or precious metal. These products can be securities such as gold or precious metals or stocks. The aim here is to make a profit without risk. One of the most asked questions in our day is Arbitrage, that is, how to make a profit without risk? " Many large and globally recognized companies are looking for answers to this question by creating arbitrage pricing models. However, in today's capital markets and currency markets, it is more difficult than it is supposed. Because now almost all the markets are intertwined and information sharing has reached incredible speeds. In this respect, it has become increasingly difficult to manually capture the wrong prices in any market and to make profits by arbitraging in this market. As such, arbitrage operations have become possible with algorithmic software. These software make arbitrary arbitrage transactions by sending orders to both stocks at the same time when arbitrage opportunities for the same securities traded in different markets are created.
 
-Arbitrage Examples
+
+<img src="/screenshot.png" width="100%">
+
+## Arbitrage Examples
 
 Although it is difficult to arbitrage with human power in today's market conditions as we have mentioned above, it is possible to theoretically arbitrage at times when volatility increases. For example, Euro TL - Dollar TL gives us the Euro Dollar price. While it is almost impossible to arbitrage on the price of Euro Dollar, it may be possible to make it possible by putting TL into the business and theoretically arbitrage.
 
